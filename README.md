@@ -182,4 +182,4 @@ curl http://localhost:8080/actuator/health
 
 외부 트래픽 생성 및 부하 테스트 시나리오는 별도 레포에서 관리한다.
 
-- https://github.com/seoheejung/jmeter-traffic-generator
+- https://github.com/seo-gali/jmeter-traffic-generator
